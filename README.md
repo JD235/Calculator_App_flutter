@@ -1,7 +1,7 @@
 # Calculator App
 
 I have created basic calculator app. You folks can add more operations and can change the UI too. 
-![Calculator](cal.png)
+![Calculator](calc.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
