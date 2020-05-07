@@ -1,6 +1,6 @@
-# calculatorapp
+# Calculator App
 
-A new Flutter application.
+I have created basic calculator app. You folks can add more operations and can change the UI too. 
 
 ## Getting Started
 
